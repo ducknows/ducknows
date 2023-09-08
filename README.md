@@ -2,6 +2,8 @@
 
 🔥 I'm a software developer who's passionate about turning lines of code into user-friendly solutions.
 
+❎ I love the feeling when my code finally works!
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
