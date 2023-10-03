@@ -1,5 +1,4 @@
-![](./assets/Untitled_Banner.png)<br>
-
+<h1 align="center">(./assets/Untitled_Banner.png)</h1>
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
