@@ -1,11 +1,10 @@
 ![](./assets/Untitle_Banner2.png)<br>
 
 <h1 align="left">Hi 👋, I'm Daniel</h1>
-<h3 align="left">A passionate fullstack developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducknows&label=Profile%20views&color=0e75b6&style=flat" alt="ducknows" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/damkesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/damkesh" height="30" width="40" /></a>
 <a href="https://dev.to//ducknows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ducknows" height="30" width="40" /></a>
