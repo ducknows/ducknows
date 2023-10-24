@@ -53,7 +53,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://dev.to/ducknows"><img alt="Dev.to" alt="Website" src="https://img.shields.io/badge/Dev.to-Ducknows-blue?style=flat-square&logo=dev.to" /></a>
+<a href="https://dev.to/danmarks"><img alt="Dev.to" alt="Website" src="https://img.shields.io/badge/Dev.to-Ducknows-blue?style=flat-square&logo=dev.to" /></a>
 <a href="https://medium.com/daniel.digitalartsprojects"><img alt="Medium" src="https://img.shields.io/badge/Medium-daniel.digitalartsprojects-blue?style=flat-square&logo=medium" /></a>
 <a href="https://hashnode.com/@danhegel"><img alt="Hashnode" src="https://img.shields.io/badge/Medium-daniel.digitalartsprojects-blue?style=flat-square&logo=hashode" /></a>
 <a href="https://www.hackerrank.com/daniel_digitala1"><img alt="hackerrank" src="https://img.shields.io/badge/Hackerrank-daniel_digitala1-blue?style=flat-square&logo=hackerrank" /></a>
