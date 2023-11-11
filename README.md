@@ -2,11 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Software Engineering at Codeworks.
-- 💼 &nbsp; Working with Full-Stack applications tests.
-- 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design.
-- ✍️ &nbsp; Pursuing Graphic Design, Blog Writing and music production as hobbies.
+- 🤔 &nbsp; building scalable web-based JavaScript applications with ES6+, React, and Node.
+- 💼 &nbsp; Networking and contributing to the open source community
+- ✍️ &nbsp; Delivering great client experiences built with creative thinking, expertise, and fine craftsmanship
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -50,7 +48,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Social Links</h3>
 
 <p align="center">
 <a href="https://dev.to/danmarks"><img alt="Dev.to" alt="Website" src="https://img.shields.io/badge/Dev.to-danmarks-blue?style=flat-square&logo=dev.to" /></a>
